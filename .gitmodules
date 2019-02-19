@@ -1,0 +1,6 @@
+[submodule "roles/docker-ubuntu16-ansible"]
+	path = roles/docker-ubuntu16-ansible
+	url = https://github.com/onksingh/docker-ubuntu16-ansible
+[submodule "roles/debian8-ansible"]
+	path = roles/debian8-ansible
+	url = https://github.com/onksingh/debian8-ansible
